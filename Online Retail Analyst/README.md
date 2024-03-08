@@ -2,10 +2,7 @@
 ## Objectives
 The Online Retail Data consists of 461,773 rows and 7 columns. This analysis aims to understand and optimize various aspects of online retail operations to drive sales growth, customer acquisition and retention, and business success. In this project, analyses related to User Retention, User RFM Segmentation, and Market Basket Analysis will be conducted.User Retention Analysis is conducted to determine whether there are users who return to make transactions or use a product (retained). User RFM Segmentation is performed to group users into several segments, enabling more targeted actions. Market Basket Analysis is conducted to discover associations between 2 or more products from a set of user transaction data.
 ## Scope
-The data analysis will be focused on three main areas :
-1.User Retention Analysis
-2.User RFM Segmentation Analysis
-3.Market Basket Analysis
+The data analysis will be focused on three main areas : User Retention Analysis, User RFM Segmentation Analysis, and Market Basket Analysis
 ## Tech & Data
 Technologies :
 * Python. Libraries that the writers used:
