@@ -12,6 +12,7 @@ Technologies :
   * Seaborn
   * Matplotlib
   * mlxtend
+ * Ms. Excel
 ## Insight
 #### User Retention Analysis
 1. The largest number of users made their first transaction in January 2010 (713 users).
