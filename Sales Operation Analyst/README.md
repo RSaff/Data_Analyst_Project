@@ -16,6 +16,18 @@ This project aims to extract valuable insights and patterns from sales-related d
   - JOIN
 ## Insight
 #### 1. Sales Productivity
-Produktivitas Sales dari banyaknya Sales Order yang didapatkan pada bulan Januari
-![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/da279349-7513-42f6-b391-f13cc5cc6b10)
+![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/2970c201-ba96-4ef6-be7c-c74b79fca50b)
+#### 2. Delivery Order Report
+![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/9fe54ff4-c7a7-4cee-88c5-3d1178fecc9c)
+#### 3. Customer Accounts Payable Aging Report
+![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/a33ee7b3-1cbe-4f0e-8840-e2eb36c675f3)
+#### 4. Top Three Products Based on Quantity
+![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/44e6eb3c-304b-4aba-9cd0-7d90d63520ab)
+#### 5.The Three Vendors with the Highest Sales Volume
+![image](https://github.com/RSaff/Data_Analyst_Project/assets/101809687/8081083a-ec60-4414-8812-c8cb91e89433)
+
+
+
+
+
 
