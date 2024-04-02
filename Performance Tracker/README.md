@@ -1,23 +1,23 @@
 # DASHBOARD PERFORMANCE TRACKER
 ## Problem Statement
-## KPI'S Requirement
-### 1. Sales by Segment :
+### KPI'S Requirement
+#### 1. Sales by Segment :
 We want to provide a clear and concise view of the sales distribution across different segments over a period of time. We want this to be a bar chart where the y-axis represents the amount of sales and the x-axis represents the different months. 
-### 2. Orders by Month
+#### 2. Orders by Month
 We want to track the count of orders placed each month. For this, we'll be using a basic area chart that is layered and stacked. The y-axis will represent the count of orders, while the x-axis will denote the different months.
-### 3. Total Category Growth by Year
+#### 3. Total Category Growth by Year
 A percentage chart focused on tracking the total category growth on a yearly basis. This will help to identify trends and patterns in the growth of different categories over time.
-### 4. Total Segment Growth by Year
+#### 4. Total Segment Growth by Year
 Another percentage chart that will be used to analyze the total segment growth each year. Like the third chart, this will provide valuable insights into the growth patterns of different segments over time.
-### 5. Clustering Sub Category by Sales and Quantity
+#### 5. Clustering Sub Category by Sales and Quantity
 We want to cluster sub categories based on their sales and quantity into 3 clusters.
-### 6. Monthly Profit by YoY
+#### 6. Monthly Profit by YoY
 We want to see how the profit growth rate in each month in 2 years. This will help to identify trends and patterns in the growth of different profit over time.
-### 7. Sales 2023 by Segment
+#### 7. Sales 2023 by Segment
 A percentage chart focusing on total sales by segment in 2023. This will help find out which segment has the highest total sales in 2023.
-### 8. Sales 2023 by Category
+#### 8. Sales 2023 by Category
 A percentage chart focusing on total sales by category in 2023. This will help find out which category has the highest total sales in 2023.
-### 9. Sales Growth
+#### 9. Sales Growth
 A percentage chart focusing on sales growth obtained from YTD Sales 2023 and YTD Sales 2022. This will help determine whether sales growth has increased or decreased.
 ## Tech & Data
 - Power BI
